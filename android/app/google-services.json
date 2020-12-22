@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976525319558",
+    "project_id": "my-app-489d0",
+    "storage_bucket": "my-app-489d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976525319558:android:ab7ec6751dd6b845502007",
+        "android_client_info": {
+          "package_name": "com.wisnuwiry.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976525319558-900oavcel1f1u6v6i3s4vr6soicj575o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wisnuwiry.myapp",
+            "certificate_hash": "7a635eaab5e19a84f59b23b016acb8fb00bb1100"
+          }
+        },
+        {
+          "client_id": "976525319558-3o8jat7k9tbsuda6p6j214l2t8surbq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQb5TLcvfwHAvKOjE8mUUiX5Nowz2gTz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976525319558-3o8jat7k9tbsuda6p6j214l2t8surbq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
